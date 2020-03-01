@@ -1,4 +1,4 @@
-const owlbot = require('./index.js')
+const owlbot = require('./kimindex.js')
 
 
 var client = owlbot(process.env.OWLBOT_TOKEN);
