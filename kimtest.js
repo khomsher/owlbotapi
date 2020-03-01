@@ -3,7 +3,7 @@ var sinon = require('sinon');
 var axios = require('axios');
 
 const chaiAsPromised = require("chai-as-promised");
-const owlbot = require('./index.js')
+const owlbot = require('./kimindex.js')
 
 chai.use(chaiAsPromised);
 
