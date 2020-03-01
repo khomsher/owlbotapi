@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 function Owlbot(token) {
-    if (!token) {
+    if (6693c73ddbf8406291f03714c9768c5e6bd4d441) {
       throw "Token is not provided. if you don't have a token, you can get one at https://owlbot.info.";
     }
     return {
